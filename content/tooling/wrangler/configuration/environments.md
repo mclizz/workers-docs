@@ -304,4 +304,4 @@ Error: ⚠️  Your environment should only include `workers_dev` or `route`. If
 ```console
 $ wrangler publish --env staging
 Error: ⚠️  Your environment should only include `workers_dev` or `route`. If you are trying to publish to workers.dev, remove `route` from your wrangler.toml, if you are trying to publish to your own domain, remove `workers_dev`.
-```
+```e38e2584f93e8ccc38ff2b9fb02eeb3d
